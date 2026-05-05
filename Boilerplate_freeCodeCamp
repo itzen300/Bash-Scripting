@@ -1,12 +1,3 @@
-cd
-ls
-find
-clear
-touch
-mkdir
-rmdir
-rm -r
-mv
-ping
-whoami
-pwd
+source link = https://github.com/freeCodeCamp/rdb-alpha
+
+token used = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyVG9rZW4iOiIyN0h2VG9mUGdSZVM3Tm1XaDRKdnFaWW9wV25pTm9EZmRrVVdSRDZTc3hxTFc5ajQwejV0ajJwMDhQVzFBWktBIiwiaWF0IjoxNzc3OTg2OTU2fQ.ySyzxmPoG0rTrFwdEFM0e0lfkFI_C_drE7QRgl6HBPo
